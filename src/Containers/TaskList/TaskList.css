@@ -1,0 +1,10 @@
+.TaskList td{
+padding: 15px;
+}
+.TaskList th{
+    text-align: right;
+}
+.TaskList table{
+    width: 50%;
+    margin: 0px auto;
+}
